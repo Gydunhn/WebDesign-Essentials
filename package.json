@@ -1,0 +1,79 @@
+{
+    "name": "web-design-essentials",
+    "displayName": "WebDesign-Essentials",
+    "description": "Web Design essential extensions for visual studio code",
+    "icon": "img/essentials.png",
+    "galleryBanner": {
+        "color": "#53595e",
+        "theme": "dark"
+    },
+    "license": "LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Gydunhn/WebDesign-Essentials.git"
+    },
+    "keywords": [
+        "VSC",
+        "VSCode",
+        "Visual Studio",
+        "VSC Essentials",
+        "Essentials",
+        "Web",
+        "Design",
+        "WebDesign",
+        "Web Design",
+        "HTML",
+        "CSS",
+        "HTML CSS Support",
+        "Tag",
+        "Rename Tag",
+        "Snippets",
+        "HTML Snippets",
+        "CSS Snippets",
+        "css-snippets",
+        "Bootstrap",
+        "Bootstrap 4",
+        "Font Awesome",
+        "Font Awesome 5",
+        "Pro snippets",
+        "Google",
+        "Google Fonts",
+        "Fonts",
+        "Color",
+        "Color Highlight",
+        "Live",
+        "Server",
+        "Live Server",
+        "HTML Preview",
+        "Dreamweaver",
+        "Dreamweaver Web Theme",
+        "Material",
+        "Material Icon",
+        "Material Icon Theme",
+        "Theme",
+        "Gydunhn",
+        "TeamElite",
+        "Team Elite"
+    ],
+    "version": "0.0.1",
+    "publisher": "Gydunhn",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ecmel.vscode-html-css",
+        "formulahendry.auto-rename-tag",
+        "abusaidm.html-snippets",
+        "joy-yu.css-snippets",
+        "thekalinga.bootstrap4-vscode",
+        "lior-chamla.google-fonts",
+        "naumovs.color-highlight",
+        "esbenp.prettier-vscode",
+        "ritwickdey.LiveServer",
+        "Persephona.theme-dreamweaverweb",
+        "PKief.material-icon-theme"
+    ]
+}
