@@ -4,8 +4,8 @@
     "description": "Web Design essential extensions for visual studio code",
     "icon": "img/essentials.png",
     "galleryBanner": {
-        "color": "#53595e",
-        "theme": "dark"
+        "color": "#E3E4E4",
+        "theme": "light"
     },
     "license": "LICENSE.md",
     "repository": {
@@ -55,7 +55,7 @@
         "TeamElite",
         "Team Elite"
     ],
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Gydunhn",
     "engines": {
         "vscode": "^1.44.0"

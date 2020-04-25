@@ -1,5 +1,5 @@
 # Web Design Essentials - Extension Pack for Visual Studio Code
-[![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/Gydunhn.vsc-essentials.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.web-design-essentials) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/Gydunhn.vsc-essentials.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.web-design-essentials) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/Gydunhn.vsc-essentials.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.web-design-essentials) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/Gydunhn.vsc-essentials.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.web-design-essentials)   
+[![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/Gydunhn.web-design-essentials.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.web-design-essentials) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/Gydunhn.web-design-essentials.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.web-design-essentials) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/Gydunhn.web-design-essentials.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.web-design-essentials) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/Gydunhn.web-design-essentials.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.web-design-essentials)   
 
 This extension pack for Visual Studio Code adds extensions that are useful for Web Design projects. I reserve the right to update the extensions pack contents up to my own discretion.
 
@@ -9,7 +9,7 @@ The [Web Design Essentials extension pack] was made to automate and standardize 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes
 
 ## Note
-This extension pack was made possible by this [article] by [Sanik Bajracharya] on Medium.
+This extension pack was made possible by this [article] by [Sanik Bajracharya] on Medium, and the [VSC-Essentials] repository was used as a template.
 
 ## Included
 
@@ -29,6 +29,7 @@ This extension pack includes the following extensions:
 | Dreamweaver Web Theme                                           | [![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/Persephona.theme-dreamweaverweb.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Persephona.theme-dreamweaverweb) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/Persephona.theme-dreamweaverweb.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Persephona.theme-dreamweaverweb) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/Persephona.theme-dreamweaverweb.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Persephona.theme-dreamweaverweb) |
 | Material Icon Theme                                             | [![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/PKief.material-icon-theme.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/PKief.material-icon-theme.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/PKief.material-icon-theme.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)                                     |
 
+[VSC-Essentials]: https://github.com/Gydunhn/VSC-Essentials
 [Web Design Essentials extension pack]: https://marketplace.visualstudio.com/items?itemName=Gydunhn.web-design-essentials
 [Sanik Bajracharya]: https://medium.com/@sanik.bajracharya
 [article]: https://medium.com/@sanik.bajracharya/vscode-how-to-create-your-own-extension-pack-483385644c29
