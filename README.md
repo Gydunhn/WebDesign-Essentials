@@ -9,7 +9,7 @@ The [Web Design Essentials extension pack] was made to automate and standardize 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes
 
 ## Note
-This extension pack was made possible by this [article] by [Sanik Bajracharya] on Medium, and the [VSC-Essentials] repository was used as a template.
+The [VSC-Essentials] project was used as a template for this one.
 
 ## Included
 
@@ -31,5 +31,3 @@ This extension pack includes the following extensions:
 
 [VSC-Essentials]: https://github.com/Gydunhn/VSC-Essentials
 [Web Design Essentials extension pack]: https://marketplace.visualstudio.com/items?itemName=Gydunhn.web-design-essentials
-[Sanik Bajracharya]: https://medium.com/@sanik.bajracharya
-[article]: https://medium.com/@sanik.bajracharya/vscode-how-to-create-your-own-extension-pack-483385644c29
