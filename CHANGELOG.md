@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.3] - 2020-04-27
+### Changed
+* Readme Reoder
+
 ## [0.0.2] - 2020-04-25
 ### Changed
 * Visual Change, for the Visual Studio Marketplace.
@@ -20,5 +24,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack
 
 [Unreleased]: https://github.com/Gydunhn/WebDesign-Essentials/tree/develop
+[0.0.3]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.0.3
 [0.0.2]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.0.2
 [0.0.1]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.0.1
