@@ -74,6 +74,7 @@
         "esbenp.prettier-vscode",
         "ritwickdey.LiveServer",
         "Persephona.theme-dreamweaverweb",
-        "PKief.material-icon-theme"
+        "PKief.material-icon-theme",
+        "mkaufman.htmlhint"
     ]
 }
