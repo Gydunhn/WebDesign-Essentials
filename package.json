@@ -75,6 +75,7 @@
         "ritwickdey.LiveServer",
         "Persephona.theme-dreamweaverweb",
         "PKief.material-icon-theme",
+        "formulahendry.auto-close-tag",
         "mkaufman.htmlhint"
     ]
 }
