@@ -55,7 +55,7 @@
         "TeamElite",
         "Team Elite"
     ],
-    "version": "0.0.3",
+    "version": "0.1.0",
     "publisher": "Gydunhn",
     "engines": {
         "vscode": "^1.44.0"
@@ -74,6 +74,9 @@
         "esbenp.prettier-vscode",
         "ritwickdey.LiveServer",
         "Persephona.theme-dreamweaverweb",
-        "PKief.material-icon-theme"
+        "PKief.material-icon-theme",
+        "formulahendry.auto-close-tag",
+        "mkaufman.htmlhint",
+        "pranaygp.vscode-css-peek"
     ]
 }
