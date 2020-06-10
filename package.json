@@ -50,6 +50,7 @@
         "Material",
         "Material Icon",
         "Material Icon Theme",
+        "Zeplin",
         "Theme",
         "Gydunhn",
         "TeamElite",
@@ -76,6 +77,7 @@
         "Persephona.theme-dreamweaverweb",
         "PKief.material-icon-theme",
         "formulahendry.auto-close-tag",
-        "pranaygp.vscode-css-peek"
+        "pranaygp.vscode-css-peek",
+        "zeplin.zeplin"
     ]
 }
