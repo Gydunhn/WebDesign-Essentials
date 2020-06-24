@@ -41,6 +41,8 @@
         "Fonts",
         "Color",
         "Color Highlight",
+        "Highlight",
+        "Matching Tag",
         "Live",
         "Server",
         "Live Server",
@@ -54,9 +56,10 @@
         "Theme",
         "Gydunhn",
         "TeamElite",
-        "Team Elite"
+        "Elite",
+        "Team"
     ],
-    "version": "0.3.0",
+    "version": "0.4.0",
     "publisher": "Gydunhn",
     "engines": {
         "vscode": "^1.44.0"
@@ -77,6 +80,7 @@
         "Persephona.theme-dreamweaverweb",
         "PKief.material-icon-theme",
         "formulahendry.auto-close-tag",
+        "vincaslt.highlight-matching-tag",
         "pranaygp.vscode-css-peek",
         "zeplin.zeplin"
     ]
