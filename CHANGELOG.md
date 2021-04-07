@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0] - 2021-04-07
+
+### Removed
+
+* Zeplin Extension, due to non-use on our part in our projects. it has become unnecessary to have it installed. It can still be downloaded and installed manually if necessary, here => [Zeplin].
+
 ## [0.4.2] - 2020-10-06
 
 ### Changed
@@ -82,6 +88,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack
 
 [Unreleased]: https://github.com/Gydunhn/WebDesign-Essentials/tree/develop
+[0.5.0]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.5.0
 [0.4.2]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.4.2
 [0.4.1]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.4.1
 [0.4.0]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.4.0
@@ -93,3 +100,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [0.0.3]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.0.3
 [0.0.2]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.0.2
 [0.0.1]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.0.1
+[Zeplin]: https://marketplace.visualstudio.com/items?itemName=zeplin.zeplin
