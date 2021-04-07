@@ -52,7 +52,6 @@
         "Material",
         "Material Icon",
         "Material Icon Theme",
-        "Zeplin",
         "Theme",
         "Gydunhn",
         "Elite"
@@ -79,7 +78,6 @@
         "PKief.material-icon-theme",
         "formulahendry.auto-close-tag",
         "vincaslt.highlight-matching-tag",
-        "pranaygp.vscode-css-peek",
-        "zeplin.zeplin"
+        "pranaygp.vscode-css-peek"
     ]
 }
