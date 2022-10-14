@@ -67,7 +67,6 @@
     "extensionPack": [
         "ecmel.vscode-html-css",
         "formulahendry.auto-rename-tag",
-        "abusaidm.html-snippets",
         "joy-yu.css-snippets",
         "thekalinga.bootstrap4-vscode",
         "lior-chamla.google-fonts",
