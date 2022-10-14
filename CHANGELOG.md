@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.1] - 2022-10-14
+
+### Removed
+
+* HTML Snippets, DISABLING THIS EXTENSION AS IT CURRENTLY CONFLICTS WTH EXISTING VS CODE HTML EXTENSION.
+
 ## [0.5.0] - 2021-04-07
 
 ### Removed
@@ -88,6 +94,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack
 
 [Unreleased]: https://github.com/Gydunhn/WebDesign-Essentials/tree/develop
+[0.5.1]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.5.0
 [0.5.0]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.5.0
 [0.4.2]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.4.2
 [0.4.1]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.4.1
