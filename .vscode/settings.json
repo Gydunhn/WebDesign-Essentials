@@ -8,4 +8,7 @@
     "workbench.tree.indent": 6,
     "scss.lint.important": "warning",
     "scss.lint.importStatement": "warning",
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
 }

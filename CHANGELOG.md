@@ -7,6 +7,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.6.0] - 2022-10-14
+
+### Added
+
+* New Tags
+
+### Fixed
+
+* Badges images, now working
+
+### Changed
+
+* Struture of Extensions to satisfy the new HTML Essentials
+
+### Removed
+
+* HTML CSS Support (migrated to html essentials)
+* Auto Complete Tag (migrated to html essentials)
+* Highlight Matching Tag (migrated to html essentials)
+* Color Highlight (migrated to html essentials)
+* CSS Peek (migrated to html essentials)
+* css-snippets (migrated to html essentials)
+
 ## [0.5.1] - 2022-10-14
 
 ### Removed
@@ -94,7 +117,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack
 
 [Unreleased]: https://github.com/Gydunhn/WebDesign-Essentials/tree/develop
-[0.5.1]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.5.0
+[0.6.0]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.6.0
+[0.5.1]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.5.1
 [0.5.0]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.5.0
 [0.4.2]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.4.2
 [0.4.1]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.4.1
