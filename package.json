@@ -16,8 +16,19 @@
         "VSC",
         "VSCode",
         "Visual Studio",
+        "Visual Studio Code",
         "VSC Essentials",
         "Essentials",
+        "Esenciales",
+        "Essenciais",
+        "Essentiel",
+        "Essenziali",
+        "Essentielles",
+        "Esencajoj",
+        "必需品",
+        "골자",
+        "अत्यावश्यकम्",
+        "ملزومات",
         "Web",
         "Design",
         "WebDesign",
@@ -29,6 +40,7 @@
         "Rename Tag",
         "Snippets",
         "HTML Snippets",
+        "HTML Essentials",
         "CSS Snippets",
         "css-snippets",
         "Bootstrap",
@@ -56,7 +68,7 @@
         "Gydunhn",
         "Elite"
     ],
-    "version": "0.5.1",
+    "version": "0.6.0",
     "publisher": "Gydunhn",
     "engines": {
         "vscode": "^1.35.0"
@@ -65,18 +77,12 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "ecmel.vscode-html-css",
-        "formulahendry.auto-rename-tag",
-        "joy-yu.css-snippets",
-        "thekalinga.bootstrap4-vscode",
-        "lior-chamla.google-fonts",
-        "naumovs.color-highlight",
+        "Gydunhn.html-essentials",
         "esbenp.prettier-vscode",
+        "thekalinga.bootstrap4-vscode",
         "ritwickdey.LiveServer",
-        "Persephona.theme-dreamweaverweb",
+        "lior-chamla.google-fonts",
         "PKief.material-icon-theme",
-        "formulahendry.auto-close-tag",
-        "vincaslt.highlight-matching-tag",
-        "pranaygp.vscode-css-peek"
+        "Persephona.theme-dreamweaverweb"
     ]
 }
