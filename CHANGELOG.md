@@ -7,6 +7,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 2025-05-09
+
+### Added
+
+* VSC-Essentials extension
+* Bootstrap IntelliSense extension
+* Bootstrap 5 Quick Snippets extension (replacing Bootstrap 4 snippets)
+* Dreamweaver Dark Theme extension
+
+### Removed
+
+* Google Fonts extension
+* Material Icon Theme extension
+* Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets extension
+
 ## [0.6.0] - 2022-10-14
 
 ### Added
@@ -117,6 +132,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack
 
 [Unreleased]: https://github.com/Gydunhn/WebDesign-Essentials/tree/develop
+[1.0.0]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/1.0.0
 [0.6.0]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.6.0
 [0.5.1]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.5.1
 [0.5.0]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.5.0

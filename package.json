@@ -37,20 +37,11 @@
         "CSS",
         "HTML CSS Support",
         "Tag",
-        "Rename Tag",
-        "Snippets",
-        "HTML Snippets",
         "HTML Essentials",
-        "CSS Snippets",
-        "css-snippets",
         "Bootstrap",
-        "Bootstrap 4",
-        "Font Awesome",
-        "Font Awesome 5",
-        "Pro snippets",
-        "Google",
-        "Google Fonts",
-        "Fonts",
+        "Bootstrap 5",
+        "Bootstrap IntelliSense",
+        "Snippets",
         "Color",
         "Color Highlight",
         "Highlight",
@@ -61,14 +52,13 @@
         "HTML Preview",
         "Dreamweaver",
         "Dreamweaver Web Theme",
-        "Material",
-        "Material Icon",
-        "Material Icon Theme",
+        "Dreamweaver Dark Theme",
+        "Prettier",
         "Theme",
         "Gydunhn",
         "Elite"
     ],
-    "version": "0.6.0",
+    "version": "1.0.0",
     "publisher": "Gydunhn",
     "engines": {
         "vscode": "^1.35.0"
@@ -77,12 +67,13 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "Gydunhn.vsc-essentials",
         "Gydunhn.html-essentials",
         "esbenp.prettier-vscode",
-        "thekalinga.bootstrap4-vscode",
+        "hossaini.bootstrap-intellisense",
+        "AnbuselvanRocky.bootstrap5-vscode",
         "ritwickdey.LiveServer",
-        "lior-chamla.google-fonts",
-        "PKief.material-icon-theme",
-        "Persephona.theme-dreamweaverweb"
+        "Persephona.theme-dreamweaverweb",
+        "Gaga-Dev.dreamweaver-dark-theme"
     ]
 }
