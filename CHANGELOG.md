@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.7.0] - 2025-05-09
+## [1.0.0] - 2025-05-09
 
 ### Added
 
@@ -132,7 +132,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack
 
 [Unreleased]: https://github.com/Gydunhn/WebDesign-Essentials/tree/develop
-[0.7.0]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.7.0
+[1.0.0]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/1.0.0
 [0.6.0]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.6.0
 [0.5.1]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.5.1
 [0.5.0]: https://github.com/Gydunhn/WebDesign-Essentials/releases/tag/0.5.0
